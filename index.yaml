@@ -3,22 +3,22 @@ entries:
   nodejs-app-chart:
   - apiVersion: v2
     appVersion: v3
-    created: "2025-05-19T23:32:51.0586502+05:30"
+    created: "2025-05-20T16:48:01.189113+05:30"
     description: A Helm chart for Kubernetes
     digest: 8e3568c514a97603f0ba05c4fa2300c47273a0acccff3f23ba2cdd8a5f2093c8
     name: nodejs-app-chart
     type: application
     urls:
-    - https://github.com/PrakashD2003/My-helm-repo/nodejs-app-chart-0.2.0.tgz
+    - https://prakashd2003.github.io/My-helm-repo/nodejs-app-chart-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: v2
-    created: "2025-05-19T23:32:51.0586502+05:30"
+    created: "2025-05-20T16:48:01.1768518+05:30"
     description: A Helm chart for Kubernetes
     digest: d1fb8cb800b3929ca64d0867212c6d96bc5093a2158790b91d8fede441619433
     name: nodejs-app-chart
     type: application
     urls:
-    - https://github.com/PrakashD2003/My-helm-repo/nodejs-app-chart-0.1.0.tgz
+    - https://prakashd2003.github.io/My-helm-repo/nodejs-app-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-19T23:32:51.0575518+05:30"
+generated: "2025-05-20T16:48:01.1635904+05:30"
